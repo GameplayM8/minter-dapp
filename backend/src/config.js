@@ -48,7 +48,7 @@ const CHAIN = 'rinkeby'; // only rinkeby or polygon
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'RAWKITS';
 const CONTRACT_SYMBOL = 'RKTS';
-const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
+const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xbc45fCC32Bc8b8A418B93C8954b9c7E67299E788';
 const TREASURY_ADDRESS = '0xbc45fCC32Bc8b8A418B93C8954b9c7E67299E788';
 const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
