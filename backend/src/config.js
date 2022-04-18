@@ -35,7 +35,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "", // Replace with your website or remove this line if you do not have one.
+ // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
