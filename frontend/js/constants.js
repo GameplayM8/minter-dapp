@@ -1,7 +1,7 @@
 const contractAddress = "0x865a5886A1BB2E01Be7756ec32a0D4f45223863E"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to RAWKITS!";
+const welcome_h1 = "Welcome to RAWKITZ!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Welcome to my very first NFT project! I really hope you all enjoys these ships. Thank you!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
